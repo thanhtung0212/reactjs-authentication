@@ -1,0 +1,22 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  color: #6e6b7b !important;
+  background-color: #f8f8f8 !important;
+  font-family: Montserrat !important;
+}
+a {
+  text-decoration: unset !important;
+}
+
+h5 {
+  color: #5e5873 !important;
+}

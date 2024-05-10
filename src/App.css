@@ -1,0 +1,24 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  min-height: 100vh;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+.btn-primary {
+  background-color: #7367f0 !important;
+}
+
+input::placeholder {
+  color: #b9b9c3 !important;
+}
+
+.tx-primary {
+  color: #7367f0;
+}
+.fw-500 {
+  font-weight: 500 !important;
+}
